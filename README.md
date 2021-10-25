@@ -21,16 +21,17 @@ to make a move.
 :white_circle:white
 team.
 
-<p align="center"><img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.1201.svg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.1202.svg"></p>
 
   **:white_circle:White team:**
-  You rolled a 2!
+  You rolled a 1!
 What would you like to do?
 
 | Choices *(click one of them!)* |
 | --- |
-  | [Move a piece from tile 2 to tile 4 (:rosette:)   ](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-2%402-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
-  | [Move a piece from tile 8 to tile 10    ](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-2%408-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [Move a new piece to tile 1    ](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-1%400-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [Move a piece from tile 4 to tile 5    ](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-1%404-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [Move a piece from tile 8 to tile 9    ](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-1%408-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
 
 -----
 
@@ -49,7 +50,7 @@ What would you like to do?
       </tr>
       <tr align="center">
         <td><b><a href="https://github.com/jbmagination">@jbmagination</a></b> (5)</td>
-        <td><b><a href="https://github.com/nirakon">@nirakon</a></b> (5)</td>
+        <td><b><a href="https://github.com/nirakon">@nirakon</a></b> (6)</td>
       </tr>
     </tbody>
   </table>
@@ -67,7 +68,8 @@ What would you like to do?
   | 25th Oct 2021 15:34 | **6** | :black_circle: **[@jbmagination](https://github.com/jbmagination)** moved a black piece from position 3 to position 5    | [#1198](https://github.com/rossjrw/rossjrw/issues/1198) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/cc4dfcb3d5cf2da2b08c026104180b714cebcd5c/games/current/board.1198.svg) |
   | 25th Oct 2021 15:36 | **7** | :white_circle: **[@nirakon](https://github.com/nirakon)** moved a white piece from position 4 to position 5 — captured a black piece :crossed_swords:   | [#1199](https://github.com/rossjrw/rossjrw/issues/1199) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/0d996d1c20f076cd9007444b90f944de22ecb028/games/current/board.1199.svg) |
   | 25th Oct 2021 15:47 | **8** | :black_circle: **[@jbmagination](https://github.com/jbmagination)** moved a black piece onto the board to position 2    | [#1200](https://github.com/rossjrw/rossjrw/issues/1200) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/de237ed886bfacdc938b6d3cd0820ad54224e88a/games/current/board.1200.svg) |
-  | 25th Oct 2021 16:15 | **9** | :white_circle: **[@nirakon](https://github.com/nirakon)** moved a white piece from position 5 to position 8  — claimed a rosette :rosette:  | [#1201](https://github.com/rossjrw/rossjrw/issues/1201) |  |
+  | 25th Oct 2021 16:15 | **9** | :white_circle: **[@nirakon](https://github.com/nirakon)** moved a white piece from position 5 to position 8  — claimed a rosette :rosette:  | [#1201](https://github.com/rossjrw/rossjrw/issues/1201) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/047bdb3498e544d402ac16e69b8a63d30483b79d/games/current/board.1201.svg) |
+  | 25th Oct 2021 16:16 | **10** | :white_circle: **[@nirakon](https://github.com/nirakon)** moved a white piece from position 2 to position 4  — claimed a rosette :rosette:  | [#1202](https://github.com/rossjrw/rossjrw/issues/1202) |  |
 
 </details>
 
