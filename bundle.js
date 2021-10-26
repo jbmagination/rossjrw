@@ -25861,6 +25861,7 @@ function handleError(error, log, octokit, context, core) {
         WRONG_DICE_COUNT: "You tried to move a piece by the wrong number of places. Check the dice roll!",
         NO_MOVE_POSITION: "I can't tell which piece you want to move.",
         IMPOSSIBLE_MOVE: "Woah, that's not a legal move! Maybe someone snuck in a move before yours.",
+        UNFINISHED_GAME_NEW: "A game is already ongoing! You'll have to wait for the current one to finish."
     };
     var ERROR_DEFAULT = "Something went wrong, but I'm not sure exactly what.\n\n@" + context.repo.owner;
     Object(_issues__WEBPACK_IMPORTED_MODULE_1__["addReaction"])("confused", octokit, context);
