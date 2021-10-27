@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     # Limit permissions of this action
     permissions:
-      contents: write
-      issues: read
+      contents: read
+      issues: write
     # Only do anything if the issue says it's a move
     if: startsWith(github.event.issue.title, 'ur-')
     steps:
