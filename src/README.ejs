@@ -28,9 +28,7 @@ You're on a team! :wave:
   %>** team.
 <% } -%>
 
-<p align="center"><img src="https://raw.githubusercontent.com/<%=
-context.repo.owner %>/<%= context.repo.repo %>/play/games/current/board.<%=
-context.issue.number %>.svg"></p>
+<p align="center"><img src="./games/current/board.<%= context.issue.number %>.svg"></p>
 
 <% if (state.currentPlayer) { -%>
   **<%= state.currentPlayer === "b" ? ":black_circle:Black" : ":white_circle:White" %> team:**
